@@ -1,31 +1,4 @@
 // index.js
-// bh3matYeLXsN0OYh (password)
-// bhadrasubhadeep2004 (username)
-// mongodb+srv://bhadrasubhadeep2004:<db_password>@cluster0.slqrf.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-
-
-// krScu9gZc8WwJWZV
-//mongodb+srv://bhadrasubhadeep2004:krScu9gZc8WwJWZV@cluster0.m11uq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// HpyLmp7QDLSc7bJu
-
 const express = require('express');
 require('dotenv/config');
 const mongoose = require('mongoose');
